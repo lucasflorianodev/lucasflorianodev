@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h4 align="center"> 
 👋 Olá, bem-vindo(a) ao meu GitHub!
 
 💻 Sobre mim:
@@ -21,7 +21,7 @@ Criando projetos práticos para compartilhar aprendizado e contribuir com a comu
 
 [https://www.linkedin.com/in/lucas-floriano-da-silva/]
 Vamos criar algo incrível juntos! 🚀
-</h1>
+</h4>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasflorianodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
