@@ -16,9 +16,6 @@
 ## 🚀 Projetos:
 - Criando projetos práticos para compartilhar aprendizado e contribuir com a comunidade.
 
-## 📫 Contato:
-- https://www.linkedin.com/in/lucas-floriano-da-silva/
-
 Vamos criar algo incrível juntos! 🚀
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -38,7 +35,6 @@ Vamos criar algo incrível juntos! 🚀
 
 <div> 
   <a href="https://www.instagram.com/lucas___floriano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:lucasfloriano09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-floriano-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
