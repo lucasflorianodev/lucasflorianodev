@@ -1,27 +1,25 @@
-<h4 align="center"> 
-👋 Olá, bem-vindo(a) ao meu GitHub!
+# 👋 Olá, bem-vindo(a) ao meu GitHub!
 
-💻 Sobre mim:
+## 💻 Sobre mim:
+- Apaixonado(a) por tecnologia, desenvolvimento de software e aprendizado contínuo.
+- Certificado(a) em **Python Fundamentals** e explorando projetos para aplicar e expandir minhas habilidades.
+- Sempre em busca de resolver problemas reais com soluções criativas e eficientes.
 
-Apaixonado(a) por tecnologia, desenvolvimento de software e aprendizado contínuo.
-Certificado(a) em Python Fundamentals e explorando projetos para aplicar e expandir minhas habilidades.
-Sempre em busca de resolver problemas reais com soluções criativas e eficientes.
-📚 Habilidades:
+## 📚 Habilidades:
+- **Linguagens:** Python (foco principal)
+- **Interesse em:** Desenvolvimento web, análise de dados e automação.
 
-Linguagens: Python (foco principal) & JavaScript
-Interesse em: Desenvolvimento web, análise de dados e automação.
-🌱 Em aprendizado:
+## 🌱 Em aprendizado:
+- Melhorando habilidades em frameworks Python como Flask e Django.
+- Explorando conceitos de ciência de dados e machine learning.
 
-Melhorando habilidades em frameworks Python como Flask e Django.
-Explorando conceitos de ciência de Egenharia Devops e machine learning.
-🚀 Projetos:
+## 🚀 Projetos:
+- Criando projetos práticos para compartilhar aprendizado e contribuir com a comunidade.
 
-Criando projetos práticos para compartilhar aprendizado e contribuir com a comunidade.
-📫 Contato:
+## 📫 Contato:
+- [Seu e-mail ou LinkedIn]
 
-[https://www.linkedin.com/in/lucas-floriano-da-silva/]
 Vamos criar algo incrível juntos! 🚀
-</h4>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasflorianodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
