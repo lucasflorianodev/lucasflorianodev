@@ -6,18 +6,18 @@
 - Sempre em busca de resolver problemas reais com soluções criativas e eficientes.
 
 ## 📚 Habilidades:
-- **Linguagens:** Python (foco principal)
-- **Interesse em:** Desenvolvimento web, análise de dados e automação.
+- **Linguagens:** Python (foco principal) & JavaScript
+- **Interesse em:** Egenharia DevOps, análise de dados e automação e Desinvolvimento Back-end
 
 ## 🌱 Em aprendizado:
 - Melhorando habilidades em frameworks Python como Flask e Django.
-- Explorando conceitos de ciência de dados e machine learning.
+- Explorando conceitos de DevOps e Automação.
 
 ## 🚀 Projetos:
 - Criando projetos práticos para compartilhar aprendizado e contribuir com a comunidade.
 
 ## 📫 Contato:
-- [Seu e-mail ou LinkedIn]
+- https://www.linkedin.com/in/lucas-floriano-da-silva/
 
 Vamos criar algo incrível juntos! 🚀
 <div align="center">
