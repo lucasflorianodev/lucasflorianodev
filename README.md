@@ -1,22 +1,33 @@
 # 👋 Olá, bem-vindo(a) ao meu GitHub!
 
 ## 💻 Sobre mim:
-- Apaixonado(a) por tecnologia, desenvolvimento de software e aprendizado contínuo.
-- Certificado(a) em **Python Fundamentals** e explorando projetos para aplicar e expandir minhas habilidades.
-- Sempre em busca de resolver problemas reais com soluções criativas e eficientes.
+Sou estudante de Sistemas de Informação (7º semestre - UNIESP) com foco em Engenharia DevOps, Desenvolvimento Ágil e QA. Busco atuar na gestão ágil de projetos, automatização de processos e melhoria contínua para entregar soluções tecnológicas eficientes e escaláveis.
+
+- 🔹 Apaixonado por tecnologia, inovação e aprendizado contínuo.
+- 🔹 Experiência com Back-Office, Gestão de Documentação e Atendimento ao Cliente.
+- 🔹 Busco oportunidades para aplicar minhas habilidades em DevOps, Qualidade de Software e Desenvolvimento Ágil.
 
 ## 📚 Habilidades:
-- **Linguagens:** Python (foco principal) & JavaScript
-- **Interesse em:** Egenharia DevOps, análise de dados e automação e Desinvolvimento Back-end
+- ✅ Linguagens: Python, JavaScript
+- ✅ Banco de Dados: PostgreSQL
+- ✅ Ferramentas: Docker, Git, API REST
+- ✅ Metodologias Ágeis: Scrum, Kanban
+- ✅ Outros: Automação de Processos, Integração Contínua
 
-## 🌱 Em aprendizado:
-- Melhorando habilidades em frameworks Python como Flask e Django.
-- Explorando conceitos de DevOps e Automação.
+## 🎓 Formação & Certificações
+- 🎓 Sistemas de Informação – UNIESP (2022-2026)
+- 📜 DevOps Fundamentals – DIO (10/2024)
+- 📜 Python Fundamentals – DIO (10/2024)
+- 🔬 Grupo de Pesquisa - AIDA – UNIESP (2022-2024)
+
+## 📫 Contato:
+- 📧 E-mail: lucasfloriano09@gmail.com
+- 📞 WhatsApp: (83) 99927-6458
 
 ## 🚀 Projetos:
 - Criando projetos práticos para compartilhar aprendizado e contribuir com a comunidade.
 
-Vamos criar algo incrível juntos! 🚀
+Me chama para bater um papo! Vamos construir algo incrível juntos. 🚀🔥
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasflorianodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
