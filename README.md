@@ -18,6 +18,7 @@ Sou estudante de Sistemas de Informação (7º semestre - UNIESP) com foco em En
 - 🎓 Sistemas de Informação – UNIESP (2022-2026)
 - 📜 DevOps Fundamentals – DIO (10/2024)
 - 📜 Python Fundamentals – DIO (10/2024)
+- 📜 Formação Scrum Master Certification – DIO (02/2025)
 - 🔬 Grupo de Pesquisa - AIDA – UNIESP (2022-2024)
 
 ## 📫 Contato:
